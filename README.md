@@ -34,6 +34,8 @@ Status kandang dibagi menjadi:
 
 ⚠️ NORMAL: Perlu perhatian.
 
+⚡ TINGGI: Beresiko bagi kesehatan kandang kambing!
+
 🛑 KRITIS: Harus segera ditangani!
 
 
